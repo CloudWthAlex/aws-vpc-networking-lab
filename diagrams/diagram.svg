@@ -1,6 +1,3 @@
-## 🏗️ Architecture Diagram
-
-```mermaid
 graph TB
     %% Define Custom Styles for AWS-like Appearance
     classDef internetStyle fill:#e6f3ff,stroke:#0078d4,stroke-width:3px,color:#000
