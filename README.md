@@ -57,6 +57,7 @@ graph TB
     class SG securityStyle
     class RT networkStyle
     class NACL securityStyle
+```
 
 ## 🛠️ Implementation Details
 
