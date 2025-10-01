@@ -1,3 +1,5 @@
+## 🏗️ Architecture Diagram
+
 ```mermaid
 graph TB
     %% Define Custom Styles for AWS-like Appearance
@@ -42,4 +44,3 @@ graph TB
     class SG securityStyle
     class RT networkStyle
     class NACL securityStyle
-```
